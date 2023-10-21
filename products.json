@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Smartphone XYZ",
+        "description": "Un smartphone de última generación con pantalla OLED y cámara de alta resolución.",
+        "price": 799.99,
+        "thumbnail": "phone1.jpg",
+        "code": "P1001",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "title": "Laptop Ultra",
+        "description": "Una potente laptop para trabajos intensivos y gaming.",
+        "price": 1299.99,
+        "thumbnail": "laptop1.jpg",
+        "code": "P1002",
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "title": "Smartwatch Fitness",
+        "description": "Un reloj inteligente diseñado para seguimiento de actividad física y notificaciones.",
+        "price": 149.99,
+        "thumbnail": "smartwatch1.jpg",
+        "code": "P1003",
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "title": "Auriculares Bluetooth",
+        "description": "Auriculares inalámbricos con cancelación de ruido y gran calidad de sonido.",
+        "price": 89.99,
+        "thumbnail": "headphones1.jpg",
+        "code": "P1004",
+        "stock": 40
+    },
+    {
+        "id": 5,
+        "title": "Televisor LED 4K",
+        "description": "Un televisor de alta definición con resolución 4K y aplicaciones integradas.",
+        "price": 599.99,
+        "thumbnail": "tv1.jpg",
+        "code": "P1005",
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "title": "Cafetera Automática",
+        "description": "Una cafetera que prepara café de calidad con solo presionar un botón.",
+        "price": 79.99,
+        "thumbnail": "coffee1.jpg",
+        "code": "P1006",
+        "stock": 25
+    },
+    {
+        "id": 7,
+        "title": "Bicicleta de Montaña",
+        "description": "Una bicicleta resistente para aventuras en la montaña.",
+        "price": 449.99,
+        "thumbnail": "bike1.jpg",
+        "code": "P1007",
+        "stock": 15
+    },
+    {
+        "id": 8,
+        "title": "Tablet 10 Pulgadas",
+        "description": "Una tablet con una pantalla grande y rendimiento rápido.",
+        "price": 199.99,
+        "thumbnail": "tablet1.jpg",
+        "code": "P1008",
+        "stock": 35
+    },
+    {
+        "id": 9,
+        "title": "Aspiradora Robótica",
+        "description": "Una aspiradora automática que limpia tu hogar sin esfuerzo.",
+        "price": 199.99,
+        "thumbnail": "robotvacuum1.jpg",
+        "code": "P1009",
+        "stock": 20
+    },
+    {
+        "id": 10,
+        "title": "Impresora Multifunción",
+        "description": "Una impresora que imprime, escanea y copia documentos con alta calidad.",
+        "price": 149.99,
+        "thumbnail": "printer1.jpg",
+        "code": "P1010",
+        "stock": 30
+    }
+]
