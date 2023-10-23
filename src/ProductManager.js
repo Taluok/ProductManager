@@ -32,7 +32,10 @@ class ProductManager {
         this.saveProductsToFile();
     }
 
-    getProducts() {
+    getProducts(limit) {
+        if (limit) {
+            return this.products.slice(0, limit); 
+        }
         return this.products;
     }
 

@@ -19,10 +19,9 @@ app.get('/products', async (req, res) => {
 });
 
 // Ruta para obtener un producto por su ID
-app.get('/products/:pid', async (req, res) => {
-    const productId = parseInt(req.params.pid);
-    const product = await productManager.getProductById(productId);
-
+app.get('/products/:productId', async (req, res) => {
+    const { productId } = req.params; 
+    const product = await productManager.getProductById(parseInt(productId));
     if (product) {
         res.json(product);
     } else {
